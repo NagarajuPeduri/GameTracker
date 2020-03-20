@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773675814370",
+    "firebase_url": "https://game-tracker-99435.firebaseio.com",
+    "project_id": "game-tracker-99435",
+    "storage_bucket": "game-tracker-99435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773675814370:android:7a38ebf0bec525f28f3dbb",
+        "android_client_info": {
+          "package_name": "org.mytest.gametracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773675814370-gfshv8g75pvubf845p3c6ebmislutndq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.mytest.gametracker",
+            "certificate_hash": "009ac61399d2883a00980fae4a6e6f215b8ffbe6"
+          }
+        },
+        {
+          "client_id": "773675814370-qgv81le3bcscrh0nhj235bttr2emt02e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDEh5XIkxZNsqJtxWr83r3NyegvoUVjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773675814370-qgv81le3bcscrh0nhj235bttr2emt02e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
